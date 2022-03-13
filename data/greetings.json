@@ -1,0 +1,58 @@
+[
+    {"tag": "greeting",
+     "patterns": "Hi there",
+     "responses": "Hello",
+     "context": [""]
+    },
+  {"tag": "greeting",
+     "patterns": "How are you",
+     "responses": "I am fine.",
+     "context": [""]
+    },
+  {"tag": "greeting",
+     "patterns": "Is anyone there?",
+     "responses": "Hi there, how can I help?",
+     "context": [""]
+    },
+  {"tag": "greeting",
+     "patterns": "Hola",
+     "responses": "Hello",
+     "context": [""]
+    },
+  {"tag": "greeting",
+     "patterns":  "Hello",
+     "responses": "Hello",
+     "context": [""]
+    },
+  {"tag": "greeting",
+     "patterns":"Good day",
+     "responses":"Good to see you again",
+     "context": [""]
+    },
+  {"tag": "greeting",
+     "patterns": "What's up?",
+     "responses": "Great, thanks.",
+     "context": [""]
+    },
+
+    {"tag": "goodbye",
+     "patterns": "Bye",
+     "responses": "See you!",
+     "context": [""]
+    },
+  {"tag": "goodbye",
+     "patterns": "See you later",
+     "responses": "Have a nice day",
+     "context": [""]
+    },
+  {"tag": "goodbye",
+     "patterns": "Nice chatting to you, bye",
+     "responses": "Bye! Come back again soon.",
+     "context": [""]
+    },
+  {"tag": "goodbye",
+     "patterns": "goodbye",
+     "responses": "Bye! Have a nice day.",
+     "context": [""]
+    }
+  ]
